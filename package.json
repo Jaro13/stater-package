@@ -17,6 +17,7 @@
     "bootstrap-validator": "^0.11.9",
     "fontawesome": "^4.7.0",
     "jquery": "^3.1.1",
+    "jquery-ui": "^1.12.1",
     "parsleyjs": "^2.6.2",
     "simple-line-icons": "^2.4.1"
   }
